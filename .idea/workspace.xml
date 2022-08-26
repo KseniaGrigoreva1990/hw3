@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="693cca9f-4b64-4d8f-a438-1ddd54647d48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -41,9 +42,23 @@
     "last_opened_file_path": "C:/Java/BonusServiceTest/pom.xml"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\grigo\Downloads\untitled" />
+      <recent name="C:\Users\grigo\Downloads\untitled\src" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean verify" />
+      <command value="mvn spotbugs:check" />
+      <command value="checkstyle::check" />
+      <command value="-e" />
+      <command value="mvn checkstyle:check -e" />
+      <command value="mvn checkstyle:check" />
+      <command value="mvn checkstyle:checkstyle" />
+      <command value="mvn clean" />
+      <command value="mvn test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.StatisticsServiceTest">
