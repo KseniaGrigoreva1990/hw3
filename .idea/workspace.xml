@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="693cca9f-4b64-4d8f-a438-1ddd54647d48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/grigo/Downloads/untitled/src/test/java",
-    "last_opened_file_path": "C:/Java/BonusServiceTest/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/grigo/Downloads/untitled/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java/BonusServiceTest/pom.xml&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\grigo\Downloads\untitled" />
@@ -50,15 +50,16 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean verify" />
       <command value="mvn spotbugs:check" />
       <command value="checkstyle::check" />
       <command value="-e" />
       <command value="mvn checkstyle:check -e" />
-      <command value="mvn checkstyle:check" />
-      <command value="mvn checkstyle:checkstyle" />
       <command value="mvn clean" />
       <command value="mvn test" />
+      <command value="mvn clean verify" />
+      <command value="mvn checkstyle:checkstyle" />
+      <command value="mvn checkstyle:checkstyle -e" />
+      <command value="mvn checkstyle:check" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.StatisticsServiceTest">
